@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/vikas/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/vikas/.gradle/caches/8.14/transforms/7c9d9908ec4d9ba410d62a759ead8652/transformed/react-android-0.79.5-debug/prefab",
+    "/Users/vikas/rnd/prabodh/STT-TranscriptionApp/react_native_whisper_app/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/vikas/rnd/prabodh/STT-TranscriptionApp/react_native_whisper_app/node_modules/react-native-worklets/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/vikas/.gradle/caches/8.14/transforms/83bf45517501cf758e2a335f1db3f7b5/transformed/hermes-android-0.79.5-debug/prefab",
+    "/Users/vikas/.gradle/caches/8.14/transforms/31c791cbcbbe4ca53decf3a61443aa75/transformed/fbjni-0.7.0/prefab"
+  ]
+}

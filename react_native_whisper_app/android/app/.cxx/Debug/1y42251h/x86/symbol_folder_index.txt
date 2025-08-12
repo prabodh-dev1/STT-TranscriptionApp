@@ -1,0 +1,1 @@
+/Users/vikas/rnd/prabodh/STT-TranscriptionApp/react_native_whisper_app/android/app/build/intermediates/cxx/Debug/1y42251h/obj/x86

@@ -3,7 +3,7 @@ import RNFS from 'react-native-fs';
 class TranscriptionService {
   constructor() {
     // Configure API base URL - update this to match your server
-    this.baseURL = 'http://localhost:5000/api/whisper';
+    this.baseURL = 'http://192.168.1.8:5001/api/whisper';
     
     // For development, you might need to use your computer's IP address
     // this.baseURL = 'http://192.168.1.100:5000/api/whisper';
